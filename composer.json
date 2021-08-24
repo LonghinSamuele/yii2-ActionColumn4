@@ -2,7 +2,7 @@
   "name": "longhinsamuele/yii2-actioncolumn4",
   "description": "new Bootstrap 4 GridView ad GridViews",
   "type": "yii2-extension",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "yii2",
     "extension",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "samuelelonghin\\actioncolumn4\\": ""
+      "samuelelonghin\\grid\\columns\\": ""
     }
   }
 }
