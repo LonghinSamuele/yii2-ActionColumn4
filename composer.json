@@ -2,7 +2,7 @@
   "name": "samuelelonghin/yii2-actioncolumn4",
   "description": "new Bootstrap 4 GridView ad GridViews",
   "type": "yii2-extension",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "keywords": [
     "yii2",
     "extension",
